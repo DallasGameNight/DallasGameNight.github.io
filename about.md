@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Dallas Game Night is a monthly gathering, on the Fourth Friday of every month, open to absolutely **ANYONE** for the enjoyment of board games.  Our mission statement is simple:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+> Provide a free and open night for board games that is kid friendly, for the love of games!
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We have an amazing sponsor, who provides food and space for us every month in [Improving Enterprises](http://improvingenterprises.com).  They are so open with their resources and facilities and it is greatly appreciated.
+
+![Improving Enterprises Logo](http://TimRayburn.net/images/ie-logo-small.jpg)
