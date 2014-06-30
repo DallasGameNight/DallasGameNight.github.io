@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Announcing July Game Night"
-date:   2014-06-29 21:58:28
+date:   2014-07-01 00:00:00
 categories: news
 ---
 
