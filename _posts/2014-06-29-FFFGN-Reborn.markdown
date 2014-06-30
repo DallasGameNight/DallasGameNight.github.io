@@ -5,7 +5,7 @@ date:   2014-06-29 21:58:28
 categories: news
 ---
 
-The Fourth Friday Family Game Night (aka #FFFGN) has been reborn as the Dallas Game Night!  We've decided the group needed an upgrade so I'm pleased to report that we now have:
+![](/images/DallasGameNight.png){: .right-img } The Fourth Friday Family Game Night (aka #FFFGN) has been reborn as the Dallas Game Night!  We've decided the group needed an upgrade so I'm pleased to report that we now have:
 
 1. A Twitter account : [@DallasGameNight](http://Twitter.com/DallasGameNight)
 1. [A real website](http://DallasGameNight.TimRayburn.net)

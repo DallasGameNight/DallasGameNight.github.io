@@ -34,6 +34,19 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
+.left-img {
+  float: left;
+  margin: 10px 40px 10px 10px;
+  vertical-align: top;
+  height: 200px;
+}
+
+.right-img {
+  float: right;
+  margin: 10px 10px 10px 40px;
+  vertical-align: top;
+  height: 200px;
+}
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
